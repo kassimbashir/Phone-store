@@ -1,8 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+/* eslint-disable space-before-function-paren */
+/* eslint-disable semi */
+/* eslint-disable quotes */
+/* eslint-disable react/react-in-jsx-scope */
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
+    // eslint-disable-next-line react/react-in-jsx-scope
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
