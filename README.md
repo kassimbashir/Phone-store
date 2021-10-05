@@ -1,5 +1,28 @@
 # Netlify URL
 https://thirsty-goodall-b959d5.netlify.app/
+
+# Technologies and Metodologies
+
+    # Context API
+        this technique was made to solve the problem of prop-drilling (i.e., the process where props are passed from one component to another by going through other components that don't need the data).
+        So Context API is a React structure that enables you to exchange unique details while avoiding prop-drilling.
+    # Styled Components
+        React library for component-level styling using CSS-in-JS technique.
+        why use it?
+        - code reuse: we could use the same style for many components across different projects
+        - easy maintenance
+        - no class name bugs
+        - mobile support
+    # Bootstrap
+        it's a CSS framework that contains CSS-based design templates.
+        why?
+         the built-in templates make styling easier and more flexible.
+
+# ES7 React/Redux/GraphQL/React-Native snippets: Shortcuts
+rfc - function component 
+rcc - class component
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
