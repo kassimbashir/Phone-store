@@ -1,5 +1,5 @@
 import "../App.css";
-import React, { Component } from "react";
+import React from "react";
 import { Switch, Route } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -7,7 +7,6 @@ import Navbar from "./Navbar";
 import Cart from "./Cart/Cart";
 import Default from "./Default";
 import Details from "./Details";
-import Product from "./Product";
 import ProductList from "./ProductList";
 import Modal from "./Modal";
 
