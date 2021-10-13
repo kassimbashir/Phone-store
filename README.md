@@ -1,5 +1,5 @@
 # Netlify URL
-https://thirsty-goodall-b959d5.netlify.app/
+https://the-fone-store.netlify.app/
 
 # Technologies and Metodologies
 
@@ -17,6 +17,14 @@ https://thirsty-goodall-b959d5.netlify.app/
         it's a CSS framework that contains CSS-based design templates.
         why?
          the built-in templates make styling easier and more flexible.
+    # paypal sandbox
+        an option to pay with paypal using the package "react-paypal-express-checkout"
+        notes: 
+            - to check out the transactions made by a sandbox client go to 
+            https://www.sandbox.paypal.com/
+            - to check info like account names and create new client accounts go to 
+            https://developer.paypal.com/
+            example account: client-account-test@gmail.com      password:12345678
 
 # ES7 React/Redux/GraphQL/React-Native snippets: Shortcuts
 rfc - function component 
