@@ -1,6 +1,5 @@
 import React from 'react';
 import PaypalExpressBtn from 'react-paypal-express-checkout';
-import { ThemeConsumer } from 'styled-components';
  
 export default class MyApp extends React.Component {
     render() {
